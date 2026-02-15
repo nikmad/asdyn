@@ -1,12 +1,10 @@
 *.e
 *.vcxproj*
 *.rc
-*.sln
 *.suo
 *.ico
 *.TLE
 *.dbg
 *.cd
 *.out
-*.txt
 fortran/
